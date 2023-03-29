@@ -6,18 +6,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img align="center" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object LAVÍNIA {
- val name = "Lavínia Barbosa de Sá"
- val acknowledgements = "Desenvolvimento de Software"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "node.js", "docker") 
-
-}
-```
 <br>
 
 <div  align="center"> 
