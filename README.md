@@ -29,7 +29,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=laviniasa&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=laviniasa&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
