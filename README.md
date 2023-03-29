@@ -2,9 +2,13 @@
 
 <div>
   
-<!--   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=laviniasa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniasa&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div> -->
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?laviniasa=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?laviniasa=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 <br>
 
 <div  align="center"> 
