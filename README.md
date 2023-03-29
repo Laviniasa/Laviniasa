@@ -39,7 +39,7 @@
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br> -->
 
-#### Rede Sociais!
+<!-- #### Rede Sociais! -->
 <!-- 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
